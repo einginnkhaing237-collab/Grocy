@@ -1,0 +1,5 @@
+{
+  "name": "FreshList - Simple Grocery Tracker",
+  "description": "A clean, mobile-friendly grocery list app with categories, persistence, and smart sorting.",
+  "requestFramePermissions": []
+}
